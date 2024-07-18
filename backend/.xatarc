@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Cesar-Gonzalez-s-workspace-uh83qs.us-east-1.xata.sh/db/flashcard",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

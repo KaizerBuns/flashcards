@@ -1,0 +1,11 @@
+{
+  "id": "mig_clnk55b93cu4enldltmg",
+  "checksum": "1:06f561a0e9ab48e9391ba4ef001ebfde456e3699ecf7ea36beb774ddd8a1c2ed",
+  "operations": [
+    {
+      "addTable": {
+        "table": "flashcards"
+      }
+    }
+  ]
+}
